@@ -87,13 +87,12 @@ docker run -p 8501:8501 blog_generator
 ```
 Open: 👉 http://localhost:8501
 
-## License
-
-[MIT](https://choosealicense.com/licenses/mit/)
 ## Screenshots
-
 ##### Home page
 ![App Screenshot](https://github.com/AmreetNanda/LLM_Blog/blob/main/Screenshot%202025-11-30%20143837.png)
 
-
 ## Demo
+https://github.com/user-attachments/assets/7a3132da-ef45-44de-b31a-5c8b0f7b0de9
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
