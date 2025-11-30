@@ -68,9 +68,9 @@ streamlit run app.py
 Open in your browser:
 ```
 👉 http://127.0.0.1:5000/
-👉 Upload a skin image in the form 
-👉 Click the "Predict Disease" button.
-👉 Receive the predicted skin disease and confidence level.
+👉 Enter the blog topic that you want
+👉 Click the "submit" button.
+👉 The model generates the blog and displays it on the screen
 ```
 
 ## 🐳 Running with Docker (optional)
