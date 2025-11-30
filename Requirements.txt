@@ -1,0 +1,6 @@
+openai
+langchain
+streamlit
+ipykernel
+langchain_community
+ctransformers

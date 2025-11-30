@@ -1,0 +1,11 @@
+.
+Data science is an exciting and rapidly growing field that combines mathematics, statistics, computer science, and domain expertise to extract insights from data. As a researcher in this field, you will be responsible for analyzing complex datasets, identifying patterns and trends, and developing predictive models to solve real-world problems.
+Your primary duties may include:
+* Collecting and cleaning large datasets from various sources
+* Developing and implementing machine learning algorithms to extract insights from data
+* Collaborating with domain experts to understand business needs and develop solutions
+* Communicating findings through reports, presentations, and visualizations to stakeholders
+* Staying up-to-date with the latest trends and technologies in the field of data science
+As a researcher in data science, you will work closely with cross-functional teams to identify business problems and develop solutions using data. You will also be responsible for maintaining and updating existing datasets, as well as developing new methods and tools to improve the efficiency and accuracy of data analysis.
+To succeed in this role, you should have a strong background in mathematics, statistics, or computer science, as well as experience working with large datasets and machine learning algorithms. You should also be able to communicate complex technical concepts to non-technical stakeholders and have excellent problem-solving skills.
+Overall, a career as a researcher in data science
